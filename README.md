@@ -45,6 +45,8 @@ $ pip install -r requirements.txt
 
 # Run the project
 $ python search.py
+
+# Input Example
 $ Main URL page 1 : https://sinta.kemdikbud.go.id/journals/detail?page=2&id=1270
 ```
 
