@@ -6,6 +6,8 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 journal = {}
 journal_ind = {}
 
+## Example to use for URL form : https://sinta.kemdikbud.go.id/journals/detail?page=2&id=1270 (page parameter is required)
+
 def checkFromIndonesia(text):
     return Fore.GREEN + "YES" if detect(str(text).lower()) == "id" else Fore.RED + "NOT"
 
