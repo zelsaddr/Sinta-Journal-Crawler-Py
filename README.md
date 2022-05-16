@@ -45,7 +45,7 @@ $ pip install -r requirements.txt
 
 # Run the project
 $ python search.py
-
+$ Main URL page 1 : https://sinta.kemdikbud.go.id/journals/detail?page=2&id=1270
 ```
 
 Made with :heart: by <a href="https://github.com/zelsaddr" target="_blank">zelsaddr</a>
