@@ -1,4 +1,4 @@
-<h1 align="center">Sinta Journal Crawler (Filtered by Lang id)</h1>
+<h1 align="center">Sinta Journal Crawler (Filtered by 🇮🇩 Lang)</h1>
 
 <!-- Status -->
 
