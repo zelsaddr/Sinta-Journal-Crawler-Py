@@ -1,5 +1,5 @@
 <h1 align="center">Sinta Journal Crawler (Filtered by 🇮🇩 Lang)</h1>
-![Example](https://i.ibb.co/B4ZpcBq/image.png)
+<img src="https://i.ibb.co/B4ZpcBq/image.png" />
 <!-- Status -->
 
 <!-- <h4 align="center">
